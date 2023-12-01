@@ -41,8 +41,8 @@ display: block;
 }
 
 .imgsizing{
-    width: 260px;
-    min-height: 300px;
+    width: 200px;
+    min-height: 250px;
     display:inline;
     padding: 20px;
     border-radius: 12%;
