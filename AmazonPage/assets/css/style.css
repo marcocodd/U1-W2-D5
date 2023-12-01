@@ -1,0 +1,144 @@
+/* Your styles here */
+
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(238, 236, 236, 0.829);
+}
+
+main{
+    padding:30px;
+}
+
+.darkDiv{
+    background-color: #222f3e;
+   text-align: left;
+    }
+
+
+h1{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+
+.linkstyle{
+    color:rgb(46, 134, 206);
+    font-weight: bold;
+    font-size: 0.9rem;
+
+}
+
+.pstyle{
+    font-weight: bold;
+  font-size: larger;
+ letter-spacing: none;
+ line-height: 1rem;
+display: block;
+
+
+}
+
+.imgsizing{
+    width: 260px;
+    min-height: 300px;
+    display:inline;
+    padding: 20px;
+    border-radius: 12%;
+    box-shadow: 15px 6px 25px -11px rgba(136, 135, 135, 0.75);
+     }
+
+     .largeimgdiv{
+        text-align: center;
+
+     }
+/* Header*/
+    .topLogo{
+        width: 90px;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        }
+    
+
+/* NAV */
+
+.navcolor{
+    background-color: #344b64;
+    color: aliceblue;
+    padding: 0.5rem 0 0.5rem 1.5rem;
+    font-size: 0.9em;
+}
+
+.ulnav{
+    display: inline;
+    padding: 0.5em;
+   
+    
+ }
+/* Main */
+
+.orangediv{
+    color:#eaeded;
+    background-color: #f56600;
+    text-align: center;
+    width: 100%;
+    padding: 0.3rem 0;
+
+   }
+
+.spanstyle{
+    font-size: 0.7rem;
+}
+
+.backgroundDiv{
+   background-image: url(/AmazonPage/assets/images/bg-image.png);
+   background-size: contain;
+   background-position: center;
+   text-align: center;
+   width: 100%;
+    padding: 2.5rem 0;
+   color: #eaeded;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   box-sizing: border-box;
+   
+}
+
+.stylep{
+margin-top: 1rem;
+}
+
+.imgdiv{
+
+   background-color: white;
+   padding: 20px;
+   box-sizing: border-box;
+   width: auto;
+   
+}
+
+.imgbox{
+    text-align: center;
+    margin: auto;
+  box-sizing: border-box;
+}
+
+.largeimgsize{
+    width: 100%;
+margin-top: 20px;
+padding-bottom: 5px; 
+}
+
+.linkfooter{
+    color: #eaeded;
+    font-weight: bold;
+}
+
+.darkDivfooter{
+    background-color: #222f3e;
+    text-align: center;
+    padding: 2rem;
+}
+/* Footer */
